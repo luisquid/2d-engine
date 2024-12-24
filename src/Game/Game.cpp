@@ -1,6 +1,5 @@
 #include "Game.h"
 
-
 Game::Game(){
     Logger::Log("Game constructor called!");
     isRunning = false;

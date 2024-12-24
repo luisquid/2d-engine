@@ -8,6 +8,7 @@
 #include <glm/glm.hpp>
 
 #include "../Logger/Logger.h"
+#include "../ECS/ECS.h"
 
 const int FPS = 120;
 const int MILLISECS_PER_FRAME = 1000 / FPS;
